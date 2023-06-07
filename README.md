@@ -3,10 +3,10 @@
 apt update
 apt upgrade
 apt install git
-git clone https://github.com/kalai pooja/Lucifer.git
+git clone https://github.com/kalai pooja/Luci.git
 ls
 
-cd Lucifer
+cd Luci
 chmod +x *
 bash setup.sh
 
