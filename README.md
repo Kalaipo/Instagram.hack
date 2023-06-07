@@ -3,7 +3,7 @@
 apt update
 apt upgrade
 apt install git
-git clone https://github.com/kalai pooja/Luci.git
+git clone https://github.com/kalai /Luci.git
 ls
 
 cd Luci
